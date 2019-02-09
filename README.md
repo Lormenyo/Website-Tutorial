@@ -13,6 +13,11 @@ It also has a google embeded.
 ![](web-1.png "The map in the website")
 
 # How to embed a google map in a website 
+1. go to google.com/maps
+2. Type the location 
+3. Once the location loads on the map, click on share
+4. Another small window appears, click on embed a map.
+5. Copy the html code and add to your website hmtl file
 
 
 # Credits

@@ -5,7 +5,7 @@ In preparation for our project showcase, students were taken through how to use 
 #Features
 The website has slideshows for the different services offered by the restaurant. 
 
-![Slideshow](screenshot(53).png "Slideshow on page")
+![Slideshow](Screenshot(53).png "Slideshow on page")
 
 
 It also has a google embeded. 
